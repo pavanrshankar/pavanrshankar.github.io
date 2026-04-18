@@ -81,22 +81,22 @@ tr,
 p,
 a {
   font-family: Times, "Times New Roman", Georgia, serif;
-  font-size: 12px
+  font-size: 15px
 }
 
 strong {
   font-family: Times, "Times New Roman", Georgia, serif;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 heading {
   font-family: Times, "Times New Roman", Georgia, serif;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 papertitle {
   font-family: Times, "Times New Roman", Georgia, serif;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 700
 }
 
