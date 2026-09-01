@@ -98,6 +98,10 @@ strong {
     margin-top: 14px;
 }
 
+ul {
+    margin-top: 0 !important; /* Prevents browser list margin from adding extra vertical space */
+}
+
 heading {
   font-family: Times, "Times New Roman", Georgia, serif;
   font-size: 9px;
